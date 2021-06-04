@@ -1,3 +1,2 @@
-# computer-homework
-代做计算机毕业设计 各种作业
+# computer-science
 qq: 956772083
